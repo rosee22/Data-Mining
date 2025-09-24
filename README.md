@@ -92,3 +92,5 @@ Cluster 0: mostly infants (lower health).
 Cluster 1: mostly adult males & females (higher health).
 
 Slight decline in healthier lobsters in 2019 compared to 2018.
+
+The repository also includes the raw lobster dataset and the Word document of the report for reference.
